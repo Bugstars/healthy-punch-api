@@ -34,7 +34,7 @@
 ### Backend (Laravel API)
 
 ```bash
-git clone https://github.com/yourname/healthy-punch-api.git
+git clone https://github.com/bugstars/healthy-punch-api.git
 
 cd healthy-punch-api
 
